@@ -1,0 +1,24 @@
+/* setting area */ 
+
+:root {
+  /* background color */
+  --bg-color: #235465;
+  
+  
+  /* text color */
+  --text-color: #aaaaaa;
+  
+  
+  /* font size */
+  --size-x: 8px
+}
+
+
+
+/* normalize settings */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
